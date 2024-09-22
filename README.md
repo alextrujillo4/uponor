@@ -1,5 +1,7 @@
 ## Uponorflix - Movie Streaming Prototype
 
+<video src='https://youtu.be/wB2nylZbbUs' width=600></video>
+
 **Description**
 
 This project is a **Flutter** mobile application prototype designed to demonstrate a movie streaming
