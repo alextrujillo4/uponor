@@ -1,6 +1,14 @@
 ## Uponorflix - Movie Streaming Prototype
 
-<video src='https://youtu.be/wB2nylZbbUs' width=600></video>
+## Live Demo
+
+You can play the app here:
+
+[Live Demo](https://alextrujillo-example.web.app)
+
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/wB2nylZbbUs/maxresdefault.jpg)](https://youtu.be/wB2nylZbbUs)
 
 **Description**
 
