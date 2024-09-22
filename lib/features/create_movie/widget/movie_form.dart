@@ -105,7 +105,7 @@ class _MovieFormState extends State<MovieForm> {
       _selectedGenres = widget.movie!.genres;
       _selectedImageUrl =
           widget.movie?.posterPath ?? unsplashImages.first['url'];
-      _originalLanguage = widget.movie?.originalLanguage ?? AppStrings.english;
+      _originalLanguage = AppStrings.en;
     } else {
       _selectedImageUrl = unsplashImages.first['url'];
     }

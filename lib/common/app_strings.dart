@@ -8,6 +8,7 @@ class AppStrings {
   static const String descending = 'Descending';
   static const String spanish = 'Spanish';
   static const String english = 'English';
+  static const String en = 'English';
   static const String accept = 'Accept';
   static const String cancel = 'Cancel';
   static const String emptyFavorites = 'No favorites available';
