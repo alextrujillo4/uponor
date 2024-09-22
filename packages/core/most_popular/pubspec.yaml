@@ -1,0 +1,31 @@
+name: most_popular
+description: "A new Flutter package project."
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+  flutter: ">=3.13.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^1.0.0
+  dartz: ^0.10.1
+  get_it: ^7.1.3
+
+  failure:
+    path: ../../utils/failure
+  state_manager:
+    path: ../../utils/state_manager
+  cache:
+    path: ../../utils/cache
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  lints: ^3.0.0
+  mockito: ^5.4.2
+  build_runner: ^2.4.8

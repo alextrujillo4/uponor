@@ -1,0 +1,26 @@
+name: failure
+description: A new Flutter package project.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=3.0.3 <4.0.0'
+  flutter: ">=3.13.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_bloc: ^8.1.3
+  get_it: ^7.1.3
+  dartz: ^0.10.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  lints: ^3.0.0
+  mockito: ^5.4.2
+  build_runner: ^2.4.6
+
+flutter:
